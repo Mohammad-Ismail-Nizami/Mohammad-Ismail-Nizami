@@ -49,7 +49,14 @@ I am passionate about building real-world Machine Learning applications using Py
 ## 📌 Featured Projects
 
 ### 🌍 Air Quality Prediction
-Machine Learning project for predicting Air Quality Index (AQI) using ensemble learning with SHAP explainability and Streamlit deployment.
+
+**Tech Stack:** Python • Scikit-learn • XGBoost • SHAP • Streamlit
+
+End-to-end Machine Learning project for Air Quality Index (AQI) prediction using ensemble learning and SHAP explainability.
+
+🔗 **Repository:** https://github.com/Mohammad-Ismail-Nizami/Air-Quality-Prediction
+
+🌐 **Live Demo:** <your Streamlit URL>
 
 ### 🎓 Student Placement Prediction
 End-to-end Machine Learning project for predicting student placements using data preprocessing, feature engineering, and Scikit-learn.
