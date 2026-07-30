@@ -30,11 +30,6 @@ I am passionate about building real-world Machine Learning applications using Py
 - Streamlit
 - XGBoost
 
-**Tools**
-
-- Git
-- GitHub
-- Jupyter Notebook
 
 ---
 
