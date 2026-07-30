@@ -18,17 +18,15 @@ I am passionate about building real-world Machine Learning applications using Py
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,git,github,vscode" />
+</p>
 
-- Python
-
-**Libraries & Frameworks**
+### Libraries
 
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
-- TensorFlow
 - Streamlit
 - XGBoost
 
