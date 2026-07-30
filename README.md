@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Mohammad Ismail Nizami
 
-<!--
-**Mohammad-Ismail-Nizami/Mohammad-Ismail-Nizami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE (AI & ML) Student | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I am passionate about building real-world Machine Learning applications using Python and modern AI tools. I enjoy solving practical problems through data analysis, predictive modeling, and deploying interactive ML applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech in Computer Science & Engineering (AI & ML)
+- 🌱 Currently exploring Machine Learning, Deep Learning, and AI
+- 💻 Building end-to-end Machine Learning projects
+- 📊 Interested in Data Analytics and Predictive Modeling
+- 🎯 Seeking AI/ML Internship opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+- Python
+
+**Libraries & Frameworks**
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Streamlit
+- XGBoost
+
+**Tools**
+
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🌍 Air Quality Prediction
+Machine Learning project for predicting Air Quality Index (AQI) using ensemble learning with SHAP explainability and Streamlit deployment.
+
+### 🎓 Student Placement Prediction
+End-to-end Machine Learning project for predicting student placements using data preprocessing, feature engineering, and Scikit-learn.
+
+### ❤️ Heart Disease Prediction
+Machine Learning project for heart disease prediction using Python, Pandas, and Scikit-learn.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/mohammad-ismail-nizami
+
+---
+⭐ Thanks for visiting my profile!
