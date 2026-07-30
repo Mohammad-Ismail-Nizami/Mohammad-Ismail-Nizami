@@ -59,10 +59,25 @@ End-to-end Machine Learning project for Air Quality Index (AQI) prediction using
 🌐 **Live Demo:** https://air-quality-prediction-3eabmruh3hjts42aiwdmpy.streamlit.app/
 
 ### 🎓 Student Placement Prediction
-End-to-end Machine Learning project for predicting student placements using data preprocessing, feature engineering, and Scikit-learn.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib • Streamlit
+
+End-to-end Machine Learning project for predicting student placement using academic, technical, and skill-based features. The project includes data preprocessing, feature engineering, model comparison, hyperparameter tuning, and an interactive Streamlit web application.
+
+🔗 **Repository:** https://github.com/Mohammad-Ismail-Nizami/Student-Placement-Prediction
+
+🌐 **Live Demo:**  https://student-placement-prediction-ml.streamlit.app/
+
 
 ### ❤️ Heart Disease Prediction
-Machine Learning project for heart disease prediction using Python, Pandas, and Scikit-learn.
+
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy • Matplotlib • Streamlit
+
+Machine Learning project for predicting the likelihood of heart disease using patient health data. The project covers exploratory data analysis, data preprocessing, model training, evaluation, and deployment through an interactive Streamlit application.
+
+🔗 **Repository:** https://github.com/Mohammad-Ismail-Nizami/Heart-Disease-Prediction
+
+🌐 **Live Demo:** https://heart-disease-prediction-ismail.streamlit.app/
 
 ---
 
