@@ -31,6 +31,20 @@ I am passionate about building real-world Machine Learning applications using Py
 - XGBoost
 
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammad-Ismail-Nizami&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Ismail-Nizami&layout=compact&theme=github_dark&hide_border=true" height="170" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Ismail-Nizami&theme=github-dark&hide_border=true" />
+</p>
+
+
 ---
 
 ## 📌 Featured Projects
