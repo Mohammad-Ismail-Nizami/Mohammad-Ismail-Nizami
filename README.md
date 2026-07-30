@@ -56,7 +56,7 @@ End-to-end Machine Learning project for Air Quality Index (AQI) prediction using
 
 🔗 **Repository:** https://github.com/Mohammad-Ismail-Nizami/Air-Quality-Prediction
 
-🌐 **Live Demo:** <your Streamlit URL>
+🌐 **Live Demo:** https://air-quality-prediction-3eabmruh3hjts42aiwdmpy.streamlit.app/
 
 ### 🎓 Student Placement Prediction
 End-to-end Machine Learning project for predicting student placements using data preprocessing, feature engineering, and Scikit-learn.
