@@ -34,8 +34,8 @@ I am passionate about building real-world Machine Learning applications using Py
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammad-Ismail-Nizami&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammad-Ismail-Nizami&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohammad-Ismail-Nizami&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohammad-Ismail-Nizami&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ## 🔥 GitHub Streak
