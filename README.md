@@ -41,9 +41,8 @@ I am passionate about building real-world Machine Learning applications using Py
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohammad-Ismail-Nizami&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mohammad-Ismail-Nizami&theme=github-dark&hide_border=true"/>
 </p>
-
 
 ---
 
